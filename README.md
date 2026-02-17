@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>VMD Pharmacy Billing Software</title>
+<title>My Pharmacy Billing Software</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 <style>
 :root{
@@ -98,7 +97,7 @@ footer{background:var(--dark);color:#fff;text-align:center;padding:25px;margin-t
 <body>
 
 <header>
-  <h1 class="rgb-text">Vmd Pharmacy Billing Software</h1>
+  <h1 class="rgb-text">My Pharmacy Billing Software</h1>
   <p>Fast • Secure • GST‑Ready Billing & Inventory Solution for Medical Stores</p>
 </header>
 
@@ -146,7 +145,7 @@ footer{background:var(--dark);color:#fff;text-align:center;padding:25px;margin-t
 <a href="https://wa.me/919412561200" target="_blank" class="float-whatsapp">💬</a>
 
 <footer>
-  © 2026 Vmd Pharmacy Billing Software • All Rights Reserved
+  © 2026 My Pharmacy Billing Software • All Rights Reserved
 </footer>
 
 </body>
